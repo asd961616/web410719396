@@ -1,13 +1,24 @@
-﻿
-@{
-    ViewBag.Title = "HW1";
+﻿@{
+    ViewBag.Title = "HW2";
 }
 
-<h2>HW1</h2>
+<h2>HW2</h2>
 
-<h6>姓名：<input type="text" name="name"value="" /></h6>
-<h6>帳號：<input type="text" name="name" value="" /></h6>
-<h6>密碼：<input type="password" name="name" value="" /></h6>
-<h6>性別：<input type="radio" name="name" value="" />male<input type="radio" name="name" value=""/>Male</h6>
-<h6>興趣：<input type="checkbox" name="name" value="" />跳舞<input type="checkbox" name="name"value=""/>打球<input type="checkbox" name="name" value=""/>滑手機</h6>
-<h6>自我介紹：<textarea></textarea>
+
+<p>姓名: @Html.TextBox("name")</p>
+<p>帳號: @Html.TextBox("account")</p>
+<p>密碼: @Html.TextBox("password")</p>
+<p>
+    性別:
+    @Html.RadioButton("gender", "A")男生
+    @Html.RadioButton("gender", "B")女生
+</p>
+
+<p>
+    興趣:
+    @Html.CheckBox("reading", "R")閱讀
+    @Html.CheckBox("reading", "S")游泳
+</p>
+<p>
+    自我介紹:@Html.TextArea("about")
+</p>
