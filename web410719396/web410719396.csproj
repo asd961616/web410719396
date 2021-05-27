@@ -164,6 +164,8 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\test\HW1.cshtml" />
+    <Content Include="Views\test\HW2.cshtml" />
+    <Content Include="Views\test\HW3.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
