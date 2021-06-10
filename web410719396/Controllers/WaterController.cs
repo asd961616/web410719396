@@ -15,7 +15,7 @@ namespace web410719396.Controllers
             if(weight.HasValue)
             {
                 result = (weight * 30) + "cc";
-            }
+            }  
             ViewBag.Name = name;
             ViewBag.Result = result;
             return View();

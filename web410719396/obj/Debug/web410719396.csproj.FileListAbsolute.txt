@@ -225,6 +225,8 @@ C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\roslyn\v
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\roslyn\VBCSCompiler.exe
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\EntityFramework.dll
+C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\EntityFramework.SqlServer.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Newtonsoft.Json.dll
@@ -236,6 +238,8 @@ C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.W
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.Web.WebPages.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.Web.WebPages.Razor.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\WebGrease.dll
+C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\EntityFramework.xml
+C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\EntityFramework.SqlServer.xml
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.Web.Helpers.xml
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.Web.Mvc.xml
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.Web.Optimization.xml
@@ -246,6 +250,7 @@ C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\System.W
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Newtonsoft.Json.xml
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Antlr3.Runtime.pdb
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\zh-Hant\EntityFramework.resources.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\zh-Hant\System.Web.Helpers.resources.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\zh-Hant\System.Web.Mvc.resources.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\zh-Hant\System.Web.Optimization.resources.dll

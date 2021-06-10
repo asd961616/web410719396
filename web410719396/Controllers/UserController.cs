@@ -13,29 +13,16 @@ namespace web410719396.Controllers
         // GET: User
         public ActionResult SignUp()
         {
-            return View(model:new signupdata());
+            return View(model: new Signupdata());
         }
 
         [HttpPost]
-        public ActionResult SignUp(signupdata data)
+        public ActionResult SignUp(Signupdata data)
         {
-            if (data.Name.IsNullOrWhiteSpace())
+
+            if (ModelState.IsValid) 
             {
-                ViewBag.NameMessage = "請輸入姓名";
-            }
-            if (data.Account.IsNullOrWhiteSpace())
-            {
-                ViewBag.AccountMessage = "請輸入帳號";
-            }
-            if (data.Password.IsNullOrWhiteSpace())
-            {
-                ViewBag.PasswordMessage = "請輸入密碼";
-            }
-            if(data.Name.IsNullOrWhiteSpace()==false &&
-                !data.Account.IsNullOrWhiteSpace()&&
-                !data.Password.IsNullOrWhiteSpace())
-            {
-                ViewBag.Message = "註冊成功";
+                data.Message = "註冊成功";
             }
 
 
