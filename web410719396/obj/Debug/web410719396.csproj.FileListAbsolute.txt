@@ -261,3 +261,4 @@ C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\zh-Hant\
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\obj\Debug\web410719396.csproj.CopyComplete
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\obj\Debug\web410719396.dll
 C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\obj\Debug\web410719396.pdb
+C:\Users\User\Desktop\新增資料夾 (7)\web410719396\web410719396\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
